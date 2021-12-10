@@ -7,6 +7,8 @@ let divHtml = document.createElement('div');
 divHtml.classList.add('col');
 
 
+
+
 for( let i = 0; i <= 100 ; i++){
 
     if (i % 3 === 0 && i % 5 === 0  ){
